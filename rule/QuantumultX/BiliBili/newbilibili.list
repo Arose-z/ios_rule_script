@@ -1,0 +1,82 @@
+# >> BiliBili
+user-agent,*bili*,Domestic Media
+user-agent,bili*,Domestic Media
+user-agent,Domestic Media*,Domestic Media
+user-agent,bili-inter*,Domestic Media
+host-suffix,Domestic Media.cc,Domestic Media
+host-suffix,Domestic Media.cn,Domestic Media
+host-suffix,Domestic Media.co,Domestic Media
+host-suffix,Domestic Media.com,Domestic Media
+host-suffix,Domestic Media.net,Domestic Media
+host-suffix,Domestic Media.tv,Domestic Media
+host-suffix,biliapi.com,Domestic Media
+host-suffix,biliapi.net,Domestic Media
+host-suffix,biliintl.com,Domestic Media
+host-suffix,acg.tv,Domestic Media
+host-suffix,acgvideo.com,Domestic Media
+host-suffix,animetamashi.cn,Domestic Media
+host-suffix,animetamashi.com,Domestic Media
+host-suffix,anitama.cn,Domestic Media
+host-suffix,anitama.net,Domestic Media
+host-suffix,b23.tv,Domestic Media
+host-suffix,baka.im,Domestic Media
+host-suffix,bigfun.cn,Domestic Media
+host-suffix,bigfunapp.cn,Domestic Media
+host-suffix,bili22.cn,Domestic Media
+host-suffix,bili2233.cn,Domestic Media
+host-suffix,bili23.cn,Domestic Media
+host-suffix,bili33.cn,Domestic Media
+host-suffix,bilicdn1.com,Domestic Media
+host-suffix,bilicdn2.com,Domestic Media
+host-suffix,bilicdn3.com,Domestic Media
+host-suffix,bilicdn4.com,Domestic Media
+host-suffix,bilicdn5.com,Domestic Media
+host-suffix,biliimg.com,Domestic Media
+host-suffix,hdslb.com,Domestic Media
+host-suffix,hdslb.com.w.kunlunhuf.com,Domestic Media
+host-suffix,hdslb.com.w.kunlunpi.com,Domestic Media
+host-suffix,hdslb.net,Domestic Media
+host-suffix,hdslb.org,Domestic Media
+host-suffix,maoercdn.com,Domestic Media
+host-suffix,mcbbs.net,Domestic Media
+host-suffix,mincdn.com,Domestic Media
+host-suffix,smtcdns.net,Domestic Media
+host-suffix,p-bstarstatic.akamaized.net,Domestic Media
+host-suffix,p.bstarstatic.com,Domestic Media
+host-suffix,upos-bstar-mirrorakam.akamaized.net,Domestic Media
+host-suffix,upos-bstar1-mirrorakam.akamaized.net,Domestic Media
+host-suffix,upos-hz-mirrorakam.akamaized.net,Domestic Media
+host-suffix,biligame.com,Domestic Media
+host-suffix,biligame.net,Domestic Media
+host-suffix,biligame.cn,Domestic Media
+host-suffix,biligame.co,Domestic Media
+host-suffix,Domestic Mediagame.cn,Domestic Media
+host-suffix,Domestic Mediagame.co,Domestic Media
+host-suffix,Domestic Mediagame.net,Domestic Media
+host-suffix,biligo.com,Domestic Media
+host-suffix,bilicomics.com,Domestic Media
+host-suffix,Domestic Mediapay.cn,Domestic Media
+host-suffix,Domestic Mediapay.com,Domestic Media
+host-suffix,corari.com,Domestic Media
+host-suffix,dreamcast.hk,Domestic Media
+host-suffix,dyhgames.com,Domestic Media
+host-suffix,im9.com,Domestic Media
+host-suffix,sharejoytech.com,Domestic Media
+host-suffix,yo9.com,Domestic Media
+ip-cidr,45.43.32.234/32,Domestic Media
+ip-cidr,106.75.74.76/32,Domestic Media
+ip-cidr,111.206.25.147/32,Domestic Media
+ip-cidr,119.3.238.64/32,Domestic Media
+ip-cidr,119.29.29.29/32,Domestic Media
+ip-cidr,120.92.108.182/32,Domestic Media
+ip-cidr,120.92.113.99/32,Domestic Media
+ip-cidr,120.92.153.217/32,Domestic Media
+ip-cidr,128.1.62.200/32,Domestic Media
+ip-cidr,128.1.62.201/32,Domestic Media
+ip-cidr,134.175.207.130/32,Domestic Media
+ip-cidr,150.116.92.250/32,Domestic Media
+ip-cidr,164.52.76.18/32,Domestic Media
+ip-cidr,203.107.1.0/24,Domestic Media
+# >> B绔� PCDN 灞忚斀
+host-suffix, v1d.szbdyd.com, reject
+host-suffix, mcdn.bilivideo.cn, reject
